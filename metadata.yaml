@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '7786'
     url: http://www.gutenberg.org/2009/agents/7786
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18068#Five-Years-in-New-Zealand1859-to-1864
 gutenberg_issued: '2006-03-28'
 gutenberg_type: Text
 identifiers:
